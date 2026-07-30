@@ -4,7 +4,9 @@
 -- ===========================================
 
 -- TODO 1:
--- Create a database named CollegeDB
+-DROP DATABASE IF EXISTS CollegeDB;
+
+CREATE DATABASE CollegeDB;
 
 
 -- TODO 2:
